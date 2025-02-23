@@ -2,9 +2,6 @@
 https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=5s
 ```
 
-
-
-```
 ### 🗂 **Linux Command Notes: Grouped by Similarity & Ordered by Importance**  
 
 ---
@@ -115,4 +112,3 @@ https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=5s
 4. Process Control: `ps`, `top`, `kill`, `bg`, `fg`  
 5. Permissions: `chmod`, `chown`, `sudo`  
 6. Compression: `tar`, `gzip`, `gunzip`  
-```
